@@ -19,3 +19,7 @@
     background-attachment: fixed;
     height: 500px;
 }
+
+.navigation a{
+    text-decoration: none;
+}
