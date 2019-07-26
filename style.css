@@ -1,0 +1,21 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    padding: 25px;
+    font-size: 24px;
+}
+
+.parallax-village{
+    background: url('village.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.parallax-mango{
+    background: url('mangoes.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
